@@ -1,7 +1,7 @@
 # tf_test_gpu
 
 This is a simple test script to check that the GPU is operating as expected for Tensorflow. 
-Its is based ona script from https://learningtensorflow.com/lesson10/.
+Its is based on a script from https://learningtensorflow.com/lesson10/.
 
 The original script has been modified for python 3 along with some refinements.
 
