@@ -25,4 +25,4 @@ python test_gpu.py gpu 1000
 This sets the 'gpu' up to run a '1000 x 1000' matrix operation. You could substitute in cpu for gpu.
 
 Its worth noting that for small matrix operations the CPU will be quicker, as the io overhead limits the
-performance of the GPU but as the matrix (tehsor) size grows the gpu will be quicker.
+performance of the GPU but as the matrix (tensor) size grows the GPU will be quicker.
