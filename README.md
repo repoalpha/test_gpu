@@ -18,11 +18,11 @@ This script can be run as a quick sanity check as part of another project.
 
 ## useage
 
-the script requires to arguments as shown below
+The script requires to arguments as shown below
 
 python test_gpu.py gpu 1000
 
 This set the gpu up to run a 1000 x 1000 matrix operation. You could substitute in cpu for gpu.
 
-its worth noting that for small matrix operations the CPU will be quicker, as the io overhead limits the
+Its worth noting that for small matrix operations the CPU will be quicker, as the io overhead limits the
 performance of the GPU but as the matrix (tehsor) size grows the gpu will be quicker.
