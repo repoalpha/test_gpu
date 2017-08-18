@@ -12,9 +12,9 @@ This script can be run as a quick sanity check as part of another project.
 ## Dependencies 
 - sys module
 - os module
-numpy
-tensorflow (tensorflow_gpu)
-datetime module
+- numpy
+- tensorflow (tensorflow_gpu)
+- datetime module
 
 ## useage
 
