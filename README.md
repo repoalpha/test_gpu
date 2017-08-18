@@ -10,11 +10,11 @@ and outputs the result to screen along with the time and device used to perform 
 This script can be run as a quick sanity check as part of another project.
 
 ## Dependencies 
-sys module
-os module
-numpy
-tensorflow (tensorflow_gpu)
-datetime module
+sys module.
+os module.
+numpy.
+tensorflow (tensorflow_gpu).
+datetime module.
 
 ## useage
 
