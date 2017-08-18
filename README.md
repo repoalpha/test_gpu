@@ -1,4 +1,4 @@
-# tf_test_gpu
+# test_gpu
 
 This is a simple test script to check that the GPU is operating as expected for Tensorflow. 
 Its is based on a script from https://learningtensorflow.com/lesson10/.
